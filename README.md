@@ -13,13 +13,13 @@ IIROSE 插件远程脚本仓库。
 ### GitHub Raw
 
 ```text
-https://raw.githubusercontent.com/Nobeta-Work/iirose-plugins/main/iirose-@all/dist/i-at-all.user.js
+https://raw.githubusercontent.com/Nobeta-Work/iirose-plugins/main/iirose-%40all/dist/i-at-all.user.js
 ```
 
 ### jsDelivr CDN
 
 ```text
-https://cdn.jsdelivr.net/gh/Nobeta-Work/iirose-plugins@main/iirose-@all/dist/i-at-all.user.js
+https://cdn.jsdelivr.net/gh/Nobeta-Work/iirose-plugins@main/iirose-%40all/dist/i-at-all.user.js
 ```
 
 如果 CDN 缓存还没刷新，可以优先使用 GitHub Raw 链接。
