@@ -1,0 +1,9 @@
+# 文档
+docs/
+
+# 依赖
+node_modules/
+
+# 本地缓存
+.npm-cache/
+.chrome-profile/

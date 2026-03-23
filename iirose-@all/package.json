@@ -1,0 +1,19 @@
+{
+  "name": "iirose-at-all",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild src/main.ts --bundle --format=iife --target=es2020 --platform=browser --outfile=dist/i-at-all.user.js --sourcemap",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "esbuild": "^0.25.0",
+    "jsdom": "^26.1.0",
+    "playwright-core": "^1.58.2",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}

@@ -1,0 +1,5 @@
+iirose-docs/
+iirose-meme-searcher/
+**/node_modules/
+**/.npm-cache/
+**/.chrome-profile/
