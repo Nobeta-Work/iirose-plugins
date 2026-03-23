@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "esbuild src/main.ts --bundle --format=iife --target=es2020 --platform=browser --outfile=dist/i-at-all.user.js --sourcemap",
+    "build": "esbuild src/main.ts --bundle --format=iife --target=es2020 --platform=browser --outfile=dist/bundle.js --sourcemap",
     "test": "vitest run",
     "test:watch": "vitest"
   },
